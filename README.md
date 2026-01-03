@@ -104,6 +104,7 @@ Run Application container
 Verify running containers
 
 🧩 Jenkins Pipeline
+
 pipeline {
     agent any
 
